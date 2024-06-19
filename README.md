@@ -1,4 +1,4 @@
-### Tech Stack 💻
+### :hammer_and_wrench: Tech Stack
 <img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="300" height="170" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
@@ -25,3 +25,9 @@
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
 <img src="https://komarev.com/ghpvc/?username=S4Y4T&style=flat-square&color=blue" alt="profile-views"/>
+
+### 📊 My Stats
+
+![S4Y4T's Stats](https://github-readme-stats.vercel.app/api?username=S4Y4T&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![S4Y4T's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S4Y4T&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
+![S4Y4T's Streak](https://github-readme-streak-stats.herokuapp.com/?user=S4Y4T&theme=highcontrast&hide_border=true)
