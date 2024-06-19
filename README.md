@@ -1,6 +1,7 @@
-<img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="300" height="170" align="right"/>
+
 
 ### Tech Stack 💻
+<img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="300" height="170" align="right"/>
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
