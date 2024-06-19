@@ -28,6 +28,10 @@
 
 ### 📊 My Stats
 
-![S4Y4T's Stats](https://github-readme-stats.vercel.app/api?username=S4Y4T&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
-![S4Y4T's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S4Y4T&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
-![S4Y4T's Streak](https://github-readme-streak-stats.herokuapp.com/?user=S4Y4T&theme=highcontrast&hide_border=true)
+<div align="center">
+  <a href="https://github.com/S4Y4T">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=S4Y4T&theme=highcontrast&show_icons=true&hide_border=true&count_private=true&include_all_commits=true"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4Y4T&theme=highcontrast&show_icons=true&hide_border=true&layout=compact"/>
+    <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=S4Y4T&theme=highcontrast&hide_border=true"/>
+  </a>
+</div>
