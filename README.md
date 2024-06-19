@@ -1,5 +1,3 @@
-
-
 ### Tech Stack 💻
 <img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="300" height="170" align="right"/>
 
