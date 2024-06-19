@@ -1,4 +1,4 @@
-<img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="400" height="250" align="right"/>
+<img src="https://media1.tenor.com/m/jHg-q58KgiYAAAAC/scaler-create-impact.gif" width="300" height="170" align="right"/>
 
 ### Tech Stack 💻
 
