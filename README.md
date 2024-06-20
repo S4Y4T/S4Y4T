@@ -28,8 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/S4Y4T">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=S4Y4T&theme=algolia&show_icons=true&hide_border=true&count_private=true&title=S4Y4T's%20GitHub%20Stats">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4Y4T&theme=algolia&show_icons=true&hide_border=true&layout=compact">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=S4Y4T&theme=algolia&show_icons=true&hide_border=true&count_private=true&title=S4Y4T's%20GitHub%20Stats">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4Y4T&theme=algolia&show_icons=true&hide_border=true&layout=compact">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=S4Y4T&style=flat-square&color=081437&label=Profile+Views" alt="profile-views"/>
 </div>
