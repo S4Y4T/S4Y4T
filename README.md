@@ -24,13 +24,12 @@
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
 
-<img src="https://komarev.com/ghpvc/?username=S4Y4T&style=flat-square&color=blue" alt="profile-views"/>
-
 ### 📊 My Stats
 
 <div align="center">
   <a href="https://github.com/S4Y4T">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=S4Y4T&theme=algolia&show_icons=true&hide_border=true&count_private=true">
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=S4Y4T&theme=algolia&show_icons=true&hide_border=true&count_private=true&title=S4Y4T's%20GitHub%20Stats">
     <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4Y4T&theme=algolia&show_icons=true&hide_border=true&layout=compact">
   </a>
+  <img src="https://komarev.com/ghpvc/?username=S4Y4T&style=flat-square&color=081437&label=Profile+Views" alt="profile-views"/>
 </div>
